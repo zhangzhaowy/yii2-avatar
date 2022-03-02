@@ -1,5 +1,5 @@
 <?php
-namespace daimakuai\avatar\assets;
+namespace zhangzhaowy\avatar\assets;
 
 use Yii;
 use yii\web\AssetBundle;
